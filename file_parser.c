@@ -4,7 +4,7 @@
  *  code memory, you can edit this file to add new instructions
  *
  *  Author :
- *  Gaurav Kothari (gkothar1@binghamton.edu)
+ *  Saushthav Saxena (ssaxena3@binghamton.edu)
  *  State University of New York, Binghamton
  */
 #include <stdio.h>
